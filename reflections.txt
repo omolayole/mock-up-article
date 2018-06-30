@@ -1,0 +1,32 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+The skills that have learnt are:
+	- how to add heading element to html page
+	- how to add image element to html page
+	- how to make a text bold and italized
+	- how to strikethrough a text
+	- how to add horizontal rule
+	- how to add a superscript elememt to html page
+
+What has been easy are 
+	- adding heading element
+	- adding strong and emphasized element
+	- adding strike through element
+
+What has not been easy are 
+	- converting a markdown code to html link
+	- the part that has to do with adding absolute and relative path.
+
+The way have used the problem solving strategies from the first project is that 
+	- i first analyzes the mockup
+	- finding what text change
+	- finding if there was image in the mockup
+	- and then making my html page to look exactly like the mockup.
+
